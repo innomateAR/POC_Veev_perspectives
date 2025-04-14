@@ -12,19 +12,19 @@ export const Settings = {
         video: {
           facingMode: { exact: "user" },
         },
-        audio: true,
+        audio: false,
       },
       back: {
         video: {
           facingMode: { exact: "environment" },
         },
-        audio: true,
+        audio: false,
       },
       desktop: {
         video: {
           facingMode: "user",
         },
-        audio: true,
+        audio: false,
       },
     },
   },
